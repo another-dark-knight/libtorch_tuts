@@ -1,7 +1,5 @@
 #include <torch/torch.h>
 #include <iostream>
-#include <string>
-#include <vector>
 
 const int8_t epochs = 20;
 const int16_t batch_size = 256;
